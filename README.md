@@ -40,11 +40,13 @@ The design includes pipelined datapath/control logic, forwarding, load-use hazar
 
 ### CPU Pipeline and Hazard Control
 
-![RV32I pipeline architecture](docs/rv32i_pipeline_architecture.png)
+<img width="3179" height="1380" alt="rv32i_pipeline_architecture" src="https://github.com/user-attachments/assets/1a932765-a6b2-4b61-97f2-aae40f3ca313" />
+
 
 ### Verification Architecture
 
-![RV32I verification architecture](docs/rv32i_verification_architecture.png)
+<img width="3179" height="1580" alt="rv32i_verification_architecture" src="https://github.com/user-attachments/assets/fe97c69c-f6a8-4f0d-a78d-18d95013f0e0" />
+
 
 ```text
 DUT
